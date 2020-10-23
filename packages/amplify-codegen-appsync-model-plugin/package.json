@@ -1,5 +1,5 @@
 {
-  "name": "amplify-codegen-appsync-model-plugin",
+  "name": "appsync-model-plugin",
   "version": "1.20.8",
   "repository": {
     "type": "git",

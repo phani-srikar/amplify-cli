@@ -1,4 +1,4 @@
-import { RawDocumentsConfig } from '@graphql-codegen/visitor-plugin-common';
+{ RawDocumentsConfig } from '@graphql-codegen/visitor-plugin-common';
 
 export interface AppSyncModelPluginConfig extends RawDocumentsConfig {
   directives?: string;
